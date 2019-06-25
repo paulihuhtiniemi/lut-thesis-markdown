@@ -1,0 +1,7 @@
+pandoc.log
+node_modules
+package-lock.json
+log_wordcount.txt
+plot_wordcount.png
+.vscode
+.DS_Store

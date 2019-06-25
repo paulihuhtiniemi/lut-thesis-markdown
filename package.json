@@ -1,0 +1,10 @@
+{
+  "name": "MarkdownThesis",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "watch 'make html' source"
+  },
+  "dependencies": {
+    "watch": "^1.0.2"
+  }
+}
